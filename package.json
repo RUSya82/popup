@@ -1,0 +1,30 @@
+{
+  "name": "eval",
+  "version": "1.0.0",
+  "description": "eval site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0",
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "core-js": "^3.4.2",
+    "webpack": "^4.41.2",
+    "webpack-stream": "^5.2.1"
+  },
+  "dependencies": {
+    "imagesloaded": "^4.1.4",
+    "jquery.waitforimages": "^2.4.0"
+  }
+}
